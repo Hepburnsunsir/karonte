@@ -57,4 +57,7 @@ A dockerized version of Karonte ready to use can be found [here](https://hub.doc
 
 ## Dataset
 To obtain the dataset used in the paper please send an email to nredini@cs.ucsb.edu
+## online dataset
+https://drive.google.com/file/d/1-VOf-tEpu4LIgyDyZr7bBZCDK-K2DHaj/view?usp=sharing
+
 
